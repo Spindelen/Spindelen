@@ -10,7 +10,8 @@
   You Git will be added to my Git .
   
   ---
-  🛸
+  🛸[![Quote](https://github-readme-quotes-bay.vercel.app/quote?quoteCategory=general&font=Trebuchet%20MS&align=center&theme=transparent)](https://github.com/shravan20/github-readme-quotes)
+  
 
 
 <p align="left">
