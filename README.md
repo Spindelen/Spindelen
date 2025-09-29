@@ -3,7 +3,7 @@
 
 
 - 🌱 I’m currently learning java **@Lexicon Växsjö**
-
+- 🔭 exploring the galaxy of code, one commit at a time.
 <p align="left">
 </p>
 
