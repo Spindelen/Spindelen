@@ -5,12 +5,8 @@
 
 - 🌱 I’m currently learning java **@Lexicon Växsjö**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spindelen&show_icons=true&locale=en&layout=compact" alt="spindelen" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spindelen&show_icons=true&locale=en" alt="spindelen" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spindelen&" alt="spindelen" /></p>
