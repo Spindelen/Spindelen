@@ -1,6 +1,9 @@
 <h1 align="center"> 🚀 Code Cadet Spindelen.</h1>
 <h3 align="center">Future-focused coder on a mission to build what hasn´t been documented yet.</h3>
 
+---
+### 💻 Current Mission Status:
+
 - 🌱 I’m currently studying java [Lexicon-smaland](https://github.com/Lexicon-Smaland)
 - 🔭 exploring the galaxy of code, one commit at a time.
 ---
