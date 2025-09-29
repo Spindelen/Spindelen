@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Spindelen</h1>
 <h3 align="center">Future-focused coder on a mission to build what hasn´t been documented yet.</h3>
 
-
-- 🌱 I’m currently learning java **@Lexicon Växsjö**
+- 🔭 I’m currently studying [Lexicon-smaland](Lexicon-smaland)
+- 🌱 I’m currently learning java **@Lexicon-smaland**
 - 🔭 exploring the galaxy of code, one commit at a time.
 <p align="left">
 </p>
